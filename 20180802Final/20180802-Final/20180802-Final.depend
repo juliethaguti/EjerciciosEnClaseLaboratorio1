@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1533851934 source:c:\users\julieta\desktop\20180802-final\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1513693953 c:\users\julieta\desktop\20180802-final\arraylist.h
+
+1533869102 source:c:\users\julieta\desktop\20180802-final\controlador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"DataManager.h"
+	"Vista.h"
+	"Llamadas.h"
+	"Informes.h"
+
+1533738754 c:\users\julieta\desktop\20180802-final\datamanager.h
+
+1533682085 c:\users\julieta\desktop\20180802-final\vista.h
+
+1533865226 c:\users\julieta\desktop\20180802-final\llamadas.h
+	"ArrayList.h"
+
+1533746513 source:c:\users\julieta\desktop\20180802-final\llamadas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Llamadas.h"
+
+1533869004 source:c:\users\julieta\desktop\20180802-final\datamanager.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"DataManager.h"
+	"Llamadas.h"
+	"Validaciones.h"
+	"string.h"
+
+1533312342 c:\users\julieta\desktop\20180802-final\validaciones.h
+
+1533309499 source:c:\users\julieta\desktop\20180802-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Controlador.h"
+
+1533698777 c:\users\julieta\desktop\20180802-final\controlador.h
+
+1533865226 source:c:\users\julieta\desktop\20180802-final\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1533865389 source:c:\users\julieta\desktop\20180802-final\vista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"ArrayList.h"
+	"Vista.h"
+	"Controlador.h"
+	"Llamadas.h"
+
+1533695020 source:c:\users\julieta\desktop\20180802-final\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Informes.h"
+	"Llamadas.h"
+
+1533682085 c:\users\julieta\desktop\20180802-final\informes.h
+
