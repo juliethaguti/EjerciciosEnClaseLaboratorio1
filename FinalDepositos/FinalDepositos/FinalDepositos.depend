@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1533851934 source:c:\users\julieta\desktop\finaldepositos\finaldepositos\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1513693953 c:\users\julieta\desktop\finaldepositos\finaldepositos\arraylist.h
+
+1536511712 source:c:\users\julieta\desktop\finaldepositos\finaldepositos\controlador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"DataManager.h"
+	"Vista.h"
+	"Depositos.h"
+
+1533915919 c:\users\julieta\desktop\finaldepositos\finaldepositos\datamanager.h
+
+1536511712 c:\users\julieta\desktop\finaldepositos\finaldepositos\vista.h
+
+1533912736 c:\users\julieta\desktop\finaldepositos\finaldepositos\depositos.h
+	"ArrayList.h"
+
+1533912736 source:c:\users\julieta\desktop\finaldepositos\finaldepositos\depositos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Depositos.h"
+
+1533876018 source:c:\users\julieta\desktop\finaldepositos\finaldepositos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Controlador.h"
+
+1533926815 c:\users\julieta\desktop\finaldepositos\finaldepositos\controlador.h
+	"Depositos.h"
+
+1533915833 source:c:\users\julieta\desktop\finaldepositos\finaldepositos\datamanager.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"DataManager.h"
+	"Validaciones.h"
+	"string.h"
+	"Depositos.h"
+
+1533312342 c:\users\julieta\desktop\finaldepositos\finaldepositos\validaciones.h
+
+1533865226 source:c:\users\julieta\desktop\finaldepositos\finaldepositos\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1533926217 source:c:\users\julieta\desktop\finaldepositos\finaldepositos\vista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"ArrayList.h"
+	"Vista.h"
+	"Controlador.h"
+	"Depositos.h"
+
